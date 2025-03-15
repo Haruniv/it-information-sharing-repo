@@ -246,9 +246,9 @@ https://brunch.co.kr/@wisesaying/172
 <br/>
 (후원인 : AWS의 모든 것 커뮤니티 & 전산직)
 <br/>
-[AWS의 모든 것 커뮤니티](https://open.kakao.com/o/gNSUnzob)
+[AWS의 모든 것 커뮤니티] (https://open.kakao.com/o/gNSUnzob)
 <br/>
-[IT 네트워크 커뮤니티](https://open.kakao.com/o/gzCP6fy)
+[IT 네트워크 커뮤니티] (https://open.kakao.com/o/gzCP6fy)
 
 <br/>
 <br/>
