@@ -245,9 +245,8 @@ https://brunch.co.kr/@wisesaying/172
 ##### 취준생 면접용 커피 후원
 ##### (후원인 : AWS의 모든 것 커뮤니티 & 전산직)
 -------------
-[AWS의 모든 것 커뮤니티](https://open.kakao.com/o/gNSUnzob)
-<br/>
-[IT 네트워크 커뮤니티](https://open.kakao.com/o/gzCP6fy)
+[AWS의 모든 것 커뮤니티]:<https://open.kakao.com/o/gNSUnzob>
+[IT 네트워크 커뮤니티]:<https://open.kakao.com/o/gzCP6fy>
 -------------
 <br/>
 <br/>
