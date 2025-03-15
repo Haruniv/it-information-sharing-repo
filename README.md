@@ -165,6 +165,7 @@ AWS 강의실(방 내 상운팀장님 소유 유튜브) :
 -------------
 
 오리뎅이의 네트워크 이야기 : <https://blog.naver.com/goduck2/220111709554>
+
 감성IT인(네떡지기 & 플밍지기) : <https://zigispace.net/>
 
 네트워크의 모든 것 : <https://net-study.club/>
@@ -182,8 +183,8 @@ TCP 자세한 분석 글: <https://meetup.nhncloud.com/posts/53>
 HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 
 #### DNS
-Powered By DNS(DNS 운용) : <http://doc.kldp.org/KoreanDoc/html/PoweredByDNS-KLDP/>
-KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6%C5%B7#s-6.2>
+1. Powered By DNS(DNS 운용) : <http://doc.kldp.org/KoreanDoc/html/PoweredByDNS-KLDP/>
+2. KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6%C5%B7#s-6.2>
 ####  개발과 알고리즘
 - Crocus(개발과 디자인 패턴, 알고리즘) :<https://www.crocus.co.kr/341>
 - 그림 그리는 개발자 블로그(방 내 루루개발자님 소유) :<https://funveloper.tistory.com/>
@@ -204,14 +205,15 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 - https://cafe.naver.com/neteg/237690
 - https://cafe.naver.com/neteg/237948
 #### Won님의 AWS/리눅스/쿠버네티스/도커/Go언어 추천 글 모음
-* https://captcha.tistory.com/ (Won님의 기술 블로그)
-* https://www.youtube.com/channel/UC_VOQjI7mtQTEaTXXQIzLtQ/playlists (리눅스, 쿠버네티스 유튜브 강좌)
-* https://blog.hyojun.me/8 (쿠버네티스 강좌)
-* https://www.slideshare.net/InfraEngineer/meetup2nd-v12 (쿠버네티스 강좌)
+*  Won님의 기술 블로그: <https://captcha.tistory.com/>
+* 리눅스, 쿠버네티스 유튜브 강좌: <https://www.youtube.com/channel/UC_VOQjI7mtQTEaTXXQIzLtQ/playlists>
+* 쿠버네티스 강좌 1: <https://blog.hyojun.me/8>
+* 쿠버네티스 강좌 2: <https://www.slideshare.net/InfraEngineer/meetup2nd-v12>
 * https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A (Go언어)
 * http://jidum.com/jidums/view.do?jidumId=589 (지식덤프)
 [개인정보보호위한 AWS 서비스 보안 가이드(1)](http://www.datanet.co.kr/news/articleView.html?idxno=178039)
 [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
+
 #### IT 자격증 공부방 공유 자료
 * 이로이카 님 공유 자료
 [AWS Cloud Practitioner Essentials](https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
