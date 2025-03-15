@@ -154,7 +154,7 @@ Jayendra's AWS Blog(AWS 시험) :
 퇴근길, 인스타그램으로 이해하는 AWS :
 <https://5t6d.short.gy/eNRiWC>
 
-AWS 강의실(방 내 상운팀장님 소유 유튜브) :
+AWS 강의실<img src="https://github.com/user-attachments/assets/c70585b0-098e-4afe-8fbd-b03ccc8cb1c6" width="30" height="10"></img> (상운 님) :
 <https://www.youtube.com/@AWSClassroom>
 
 #### 네트워크
@@ -186,8 +186,8 @@ HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 - Crocus(개발과 디자인 패턴, 알고리즘) :<https://www.crocus.co.kr/341>
 - 그림 그리는 개발자 블로그(방 내 루루개발자님 소유) :<https://funveloper.tistory.com/>
 - 아웃사이더의 개발 블로그 :<https://blog.outsider.ne.kr/1292>
-- 개발자에게 필요한 개발 지식 : (https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
-- YuniCro 개발 유튜브(방 내 "서버개발자"님 소유)  : <https://youtube.com/@yunicro>
+- 개발자에게 필요한 개발 지식 : <https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304>
+- YuniCro 개발 <img src="https://github.com/user-attachments/assets/c70585b0-098e-4afe-8fbd-b03ccc8cb1c6" width="30" height="10"></img> 유튜브: <https://youtube.com/@yunicro>
 - CodeCellar 블로그(방 내 "이로이카"님 소유) : <https://codecellar.tistory.com/>
 #### 백아쟈씨님의 Ansible을 이용한 네트워크 장비 자동화
 - https://cafe.naver.com/neteg/233398
