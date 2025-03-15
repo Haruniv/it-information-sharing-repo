@@ -44,11 +44,15 @@ IT 기본 CS:
 
 
 
-개발자를 위한 인프라 기초 총정리: <https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/index.html>
+개발자를 위한 인프라 기초 총정리: 
+<https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/index.html>
+
 IT 엔지니어의 길: 
 <https://brunch.co.kr/@linecard/66>
+
 개발자를 위한 지침서: 
 <https://github.com/pr0gr4m/Newbie-Guideline>
+
 시스템(리눅스) 엔지니어 기술 면접 질문지: 
 <https://github.com/pjhwa/linux-engineers/wiki>
 
