@@ -237,9 +237,9 @@ https://brunch.co.kr/@kingkayg123/195
 https://brunch.co.kr/@wisesaying/172
 -------------
 #### 대학생, 취준생, 사회초년생 후원 문의:
-> siny, 전산직: <https://open.kakao.com/o/gJ810Cie>
+> siny, 전산직: [IT 클라우드 자격증 카카오 오픈 채팅](https://open.kakao.com/o/gJ810Cie)
 >> 커피, 라면, 간식, 책, 자료, 자격증 할인쿠폰 등 제한 없이 후원해주세요!
 #### 취준생 면접용 커피 후원
-IT 네트워크 커뮤니티 : <https://open.kakao.com/o/gzCP6fy>
+[IT 네트워크 커뮤니티 카카오 오픈 채팅](https://open.kakao.com/o/gzCP6fy)
 #### AWS의 모든 것 커뮤니티 후원
-AWS의 모든 것 커뮤니티 : <https://open.kakao.com/o/gNSUnzob>
+[AWS의 모든 것 커뮤니티](https://open.kakao.com/o/gNSUnzob)
