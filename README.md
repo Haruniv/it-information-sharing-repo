@@ -8,6 +8,7 @@ IT 종사자 모든 분들을 위해 여러 사람들이 도움을 주는 게시
 Hallo, 初めまして。
 有益な情報を共有する掲示板です。
 <br>
+<br>
 "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence."
 <br>
 "배움은 우연히 얻어지는 것이 아니라 열성을 다해 갈구하고 부지런히 집중해야 얻을 수 있는 것이다."
