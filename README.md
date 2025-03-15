@@ -222,15 +222,15 @@ https://cafe.naver.com/neteg/237948
 http://www.datanet.co.kr/news/articleView.html?idxno=178039
 * 개인정보보호위한 AWS 서비스 보안 가이드(2)
 http://www.datanet.co.kr/news/articleView.html?idxno=178057
-
+---------------------------------------
 8. IT 자격증 공부방 공유 자료
 
 * 이로이카 님 공유 자료
-[AWS Cloud Practitioner Essentials] [https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237]
+[AWS Cloud Practitioner Essentials] (https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
 
 * siny 공유 자료
-* [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법] [https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4]
-
+* [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법] (https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4)
+---------------------------------------
 10. 냥냥이들 정보 모음
 * 개발자가 글을 잘 써야하는 이유
 * 테스트 케이스 작성 방법
