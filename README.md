@@ -209,8 +209,9 @@ HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 * 쿠버네티스 강좌 2: <https://www.slideshare.net/InfraEngineer/meetup2nd-v12>
 * https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A (Go언어)
 * http://jidum.com/jidums/view.do?jidumId=589 (지식덤프)
-[개인정보보호위한 AWS 서비스 보안 가이드(1)](http://www.datanet.co.kr/news/articleView.html?idxno=178039)
-[개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
+#### 클라우드 보안
+1. [개인정보보호위한 AWS 서비스 보안 가이드(1)](http://www.datanet.co.kr/news/articleView.html?idxno=178039)
+2. [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
 
 #### IT 자격증 공부방 공유 자료
 * 이로이카 님 공유 자료: 
