@@ -20,7 +20,7 @@ Hallo, 初めまして。
 애비게일 애덤스
 
 -------------
-Haru, IT-Information-sharing-repo.
+#### Haru, IT-Information-sharing-repo.
 -------------
 IT 유익한 정보 최신 업데이트!!<br>
 `UpTime: 2025.03.15`
@@ -39,7 +39,7 @@ IT 기본 CS:
 인디스워크 님 Youtube 채널 - 커리어 스토리:
 <https://www.youtube.com/@inthiswork>
 
-### IT 사회 생활 가이드
+#### IT 사회 생활 가이드
 이직에 관하여(말하는 감자님 추천): [감자 Link 바로가기](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
 
 AI Tech Interview(면접 대비 지식 습득):
@@ -63,16 +63,16 @@ IT 엔지니어의 길:
 시스템(리눅스) 엔지니어 기술 면접 질문지: 
 <https://github.com/pjhwa/linux-engineers/wiki>
 
-### 추천 교육 사이트
+#### 추천 교육 사이트
 1. [클라우드 관련 무료 교육 기관](https://www.cccr-edu.or.kr/main/index.jsp)
 2. [재직자 무료 교육기관](https://estudy.kitri.re.kr/main.do)
 3. [상운 팀장님의 인프런 AWS 강의 링크](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88)
 
-### 신입사원 면접을 위한 팁
+#### 신입사원 면접을 위한 팁
 신입 면접에선 가능성을 증명하라 :
 <https://blog.naver.com/sikimmm1/223315145747>
 
-### 클라우드 & 리눅스 & 쿠버네티스 & VMware
+#### 클라우드 & 리눅스 & 쿠버네티스 & VMware
 Map The Cloud(AWS + Azure) :
 <https://cloud.syncrofusion.com/>
 <br>
@@ -138,7 +138,7 @@ AWS 및 DevOps, CKA 전문 블로그 :
 HCX님 VMware 블로그 :
 <https://velog.io/@sjuhwan/posts>
 
-### AWS 정보
+#### AWS 정보
 네트워크 엔지니어 환영의 기술블로그(전산직 소유, 질문 가능) : 
 <https://aws-hyoh.tistory.com>
 
@@ -160,7 +160,7 @@ Jayendra's AWS Blog(AWS 시험) :
 AWS 강의실(방 내 상운팀장님 소유 유튜브) :
 <https://www.youtube.com/@AWSClassroom>
 
-### 네트워크
+#### 네트워크
 
 -------------
 
@@ -181,17 +181,17 @@ TCP 자세한 분석 글: <https://meetup.nhncloud.com/posts/53>
 
 HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 
-### DNS
+#### DNS
 Powered By DNS(DNS 운용) : <http://doc.kldp.org/KoreanDoc/html/PoweredByDNS-KLDP/>
 KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6%C5%B7#s-6.2>
-###  개발과 알고리즘
+####  개발과 알고리즘
 - Crocus(개발과 디자인 패턴, 알고리즘) :<https://www.crocus.co.kr/341>
 - 그림 그리는 개발자 블로그(방 내 루루개발자님 소유) :<https://funveloper.tistory.com/>
 - 아웃사이더의 개발 블로그 :<https://blog.outsider.ne.kr/1292>
 - 개발자에게 필요한 개발 지식 : (https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - YuniCro 개발 유튜브(방 내 "서버개발자"님 소유)  : <https://youtube.com/@yunicro>
 - CodeCellar 블로그(방 내 "이로이카"님 소유) : <https://codecellar.tistory.com/>
-### 백아쟈씨님의 Ansible을 이용한 네트워크 장비 자동화
+#### 백아쟈씨님의 Ansible을 이용한 네트워크 장비 자동화
 - https://cafe.naver.com/neteg/233398
 - https://cafe.naver.com/neteg/235726
 - https://cafe.naver.com/neteg/236006
@@ -203,7 +203,7 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 - https://cafe.naver.com/neteg/237537
 - https://cafe.naver.com/neteg/237690
 - https://cafe.naver.com/neteg/237948
-### Won님의 AWS/리눅스/쿠버네티스/도커/Go언어 추천 글 모음
+#### Won님의 AWS/리눅스/쿠버네티스/도커/Go언어 추천 글 모음
 * https://captcha.tistory.com/ (Won님의 기술 블로그)
 * https://www.youtube.com/channel/UC_VOQjI7mtQTEaTXXQIzLtQ/playlists (리눅스, 쿠버네티스 유튜브 강좌)
 * https://blog.hyojun.me/8 (쿠버네티스 강좌)
@@ -212,13 +212,13 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 * http://jidum.com/jidums/view.do?jidumId=589 (지식덤프)
 [개인정보보호위한 AWS 서비스 보안 가이드(1)](http://www.datanet.co.kr/news/articleView.html?idxno=178039)
 [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
-##### IT 자격증 공부방 공유 자료
+#### IT 자격증 공부방 공유 자료
 * 이로이카 님 공유 자료
 [AWS Cloud Practitioner Essentials](https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
 * siny 공유 자료
 [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법](https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4)
 -------------
-##### 냥냥이들 정보 모음
+#### 냥냥이들 정보 모음
 * 개발자가 글을 잘 써야하는 이유
 * 테스트 케이스 작성 방법:
 https://github.com/Arc-Jung
@@ -235,8 +235,8 @@ https://brunch.co.kr/@kingkayg123/195
 * 연봉을 올리는 8가지 방법:
 https://brunch.co.kr/@wisesaying/172
 -------------
-##### 취준생 면접용 커피 후원
-##### (후원인 : AWS의 모든 것 커뮤니티 & 전산직)
+#### 취준생 면접용 커피 후원
+#### (후원인 : AWS의 모든 것 커뮤니티 & 전산직)
 1. [AWS의 모든 것 커뮤니티] : <https://open.kakao.com/o/gNSUnzob>
 2. [IT 네트워크 커뮤니티] : <https://open.kakao.com/o/gzCP6fy>
 
