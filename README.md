@@ -30,7 +30,7 @@ IT 기본 CS:
 
 
 
-*AI Tech Interview(면접 대비 지식 습득):
+* AI Tech Interview(면접 대비 지식 습득):
 <https://boostdevs.gitbook.io/ai-tech-interview/>
 
 
