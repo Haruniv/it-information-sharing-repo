@@ -25,7 +25,7 @@ IT 기본 CS:
 
 
 ### IT 사회 생활 가이드
-* 이직에 관하여(말하는 감자님 추천):[감자 바로가기](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
+* 이직에 관하여(말하는 감자님 추천): [감자 Link 바로가기](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
 
 
 
@@ -62,14 +62,10 @@ IT 기본 CS:
 * 시스템(리눅스) 엔지니어 기술 면접 질문지
 <https://github.com/pjhwa/linux-engineers/wiki>
 
-
-
-*추천 교육 사이트
-
-
-[클라우드 관련 무료 교육 기관](https://www.cccr-edu.or.kr/main/index.jsp)
-[재직자 무료 교육기관](https://estudy.kitri.re.kr/main.do)
-[상운 팀장님의 인프런 AWS 강의 링크](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88)
+### 추천 교육 사이트
+1. [클라우드 관련 무료 교육 기관](https://www.cccr-edu.or.kr/main/index.jsp)
+2. [재직자 무료 교육기관](https://estudy.kitri.re.kr/main.do)
+3. [상운 팀장님의 인프런 AWS 강의 링크](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88)
 
 * 통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정): <https://bobgo.kr>
 
@@ -79,126 +75,117 @@ IT 기본 CS:
 
 > 클라우드 & 리눅스 & 쿠버네티스 & VMware
 >> Map The Cloud(AWS + Azure) :
-https://cloud.syncrofusion.com/
+<https://cloud.syncrofusion.com/>
 
 당신을 위한 리눅스 :
-https://linuxpia.tistory.com
+<https://linuxpia.tistory.com>
 
 AWS를 활용하는 개발자 :
-https://blog.hoseung.me/
+<https://blog.hoseung.me/>
 
 AWS 보안 전문 SA의 블로그 : 
-https://cloudguardians.medium.com/route53-cnam-%EA%B3%BC-alias-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-c24e5e1802a9
+<https://cloudguardians.medium.com/route53-cnam-%EA%B3%BC-alias-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-c24e5e1802a9>
 
 GS네오텍(클라우드):
-https://wisen.co.kr/pages/blog/blog.html
+<https://wisen.co.kr/pages/blog/blog.html>
 
-네이버 개발자 정보 공유 : 
-https://d2.naver.com/home
+네이버 개발자 정보 공유 : <https://d2.naver.com/home>
 
-유튜버 생활코딩(개발, AWS) : 
-https://www.youtube.com/user/egoing2
+유튜버 생활코딩(개발, AWS) : <https://www.youtube.com/user/egoing2>
 
-44bit 블로그(리눅스, 클라우드 등) :
-https://www.44bits.io/ko
+44bit 블로그(리눅스, 클라우드 등) : <https://www.44bits.io/ko>
 
-AWS 기술 설명서 :
-https://docs.aws.amazon.com/index.html
+AWS 기술 설명서 : <https://docs.aws.amazon.com/index.html>
 
-AWS FAQ :
-https://aws.amazon.com/ko/faqs/
+AWS FAQ : <https://aws.amazon.com/ko/faqs/>
 
-AWS 견적 산출 사이트 :
-https://calculator.s3.amazonaws.com/index.html?lng=ko_KR#/
+AWS 견적 산출 사이트 : <https://calculator.s3.amazonaws.com/index.html?lng=ko_KR#/>
 
-Server World :
-https://www.server-world.info/en/ 
+Server World : <https://www.server-world.info/en/>
 
-Master Seo의 클라우드 :
-https://brunch.co.kr/@topasvga/1202
+Master Seo의 클라우드 : <https://brunch.co.kr/@topasvga/1202>
 
-망나니 개발자의 블로그 :
-https://mangkyu.tistory.com/
+망나니 개발자의 블로그 : <https://mangkyu.tistory.com/>
 
-감성IT인(네떡지기 & 플밍지기) :
-https://zigispace.net/
+감성IT인(네떡지기 & 플밍지기) : <https://zigispace.net/>
 
-ManVSCloud : 
-https://manvscloud.com/
+ManVSCloud : <https://manvscloud.com/>
 
 SWS Tech 블로그(방 내 통닭님 소유) : 
-https://mainmethod0126.github.io/
+<https://mainmethod0126.github.io/>
 
 AWS하는 개발자 :
-https://coding-groot.tistory.com/
+<https://coding-groot.tistory.com/>
 
 Somaz의 공부일지 블로그(방 내 Somaz님 소유) :
-https://somaz.tistory.com/
+<https://somaz.tistory.com/>
 
-가시다님의 노션 : 
-https://gasidaseo.notion.site/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863
+가시다님의 노션 : <https://gasidaseo.notion.site/gasidaseo/CloudNet-Blog-c9dfa44a27ff431dafdd2edacc8a1863>
 
 클래스메소드(기업체)의 AWS 블로그 : 
-https://m.blog.naver.com/PostList.naver?blogId=classmethodkr
+<https://m.blog.naver.com/PostList.naver?blogId=classmethodkr>
 
-이 방에 계신 Henrry님 깃허브 :
-https://leehosu.github.io/
+이 방에 계신 Henrry님 깃허브 : <https://leehosu.github.io/>
 
-쿠버네티스란 무엇인가? : 
-https://kubernetes.io/ko/docs/concepts/overview/
-https://www.whatap.io/ko/blog/142/
+> 쿠버네티스란 무엇인가?
+>> 1. <https://kubernetes.io/ko/docs/concepts/overview/>
+>> 2. <https://www.whatap.io/ko/blog/142/>
 
 AWS 및 DevOps, CKA 전문 블로그 :
-https://kim-dragon.tistory.com/
+<https://kim-dragon.tistory.com/>
 
 HCX님 VMware 블로그 :
-https://velog.io/@sjuhwan/posts
+<https://velog.io/@sjuhwan/posts>
 
-2. AWS 정보
+### AWS 정보
 네트워크 엔지니어 환영의 기술블로그(전산직 소유, 질문 가능) : 
-https://aws-hyoh.tistory.com
+<https://aws-hyoh.tistory.com>
 
 유데미 한글 번역 강의 모음 : 
-https://www.udemy.com/user/ellie-yang-10/
+<https://www.udemy.com/user/ellie-yang-10/>
 
 아마존 웹 서비스를 다루는 기술(무료공개된 책) : 
-http://pyrasis.com/aws.html
+<http://pyrasis.com/aws.html>
 
 Jayendra's AWS Blog(AWS 시험) :
-https://jayendrapatil.com/
+<https://jayendrapatil.com/>
 
 핸즈온 워크샵 사이트 (현민님 추천)
-https://workshops.aws/
+<https://workshops.aws/>
 
 퇴근길, 인스타그램으로 이해하는 AWS :
-https://5t6d.short.gy/eNRiWC
+<https://5t6d.short.gy/eNRiWC>
 
 AWS 강의실(방 내 상운팀장님 소유 유튜브) :
-https://www.youtube.com/@AWSClassroom
+<https://www.youtube.com/@AWSClassroom>
 
-3. 네트워크
-오리뎅이의 네트워크 이야기 : https://blog.naver.com/goduck2/220111709554
-감성IT인(네떡지기 & 플밍지기) :
-https://zigispace.net/
+### 네트워크
 
-네트워크의 모든 것 :
-https://net-study.club/
-
-앤서블 파헤치기 :
-https://wikidocs.net/130109
-
-네트워크 엔지니어 환영의 기술블로그(전산직 소유, 질문 가능) : 
-aws-hyoh.tistory.com
-
-HTTP의 역사 :
-https://velog.io/@seeker1207/HTTP-0.9%EC%97%90%EC%84%9C-HTTP-3.0%EA%B9%8C%EC%A7%80
 -------------
-TCP 자세한 분석 글: 
-https://meetup.nhncloud.com/posts/53
+
+오리뎅이의 네트워크 이야기 : <https://blog.naver.com/goduck2/220111709554>
+감성IT인(네떡지기 & 플밍지기) : <https://zigispace.net/>
+
+네트워크의 모든 것 : <https://net-study.club/>
+
+앤서블 파헤치기 : <https://wikidocs.net/130109>
+
+네트워크 엔지니어 환영의 기술블로그(전산직 소유, 질문 가능) : <https://aws-hyoh.tistory.com>
+
+HTTP의 역사 : <https://velog.io/@seeker1207/HTTP-0.9%EC%97%90%EC%84%9C-HTTP-3.0%EA%B9%8C%EC%A7%80>
+
 -------------
+
+TCP 자세한 분석 글: <https://meetup.nhncloud.com/posts/53>
+
+-------------
+
 클라우드 엔지니어 면접을 위한 네트워크 :<https://www.joinc.co.kr/w/cloud_architect_study_network>
+
 -------------
+
 HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
+
 -------------
 4. DNS
 Powered By DNS(DNS 운용) : <http://doc.kldp.org/KoreanDoc/html/PoweredByDNS-KLDP/>
