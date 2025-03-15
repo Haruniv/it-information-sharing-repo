@@ -25,11 +25,7 @@ IT 기본 CS:
 
 
 ### IT 사회 생활 가이드
-* 이직에 관하여(말하는 감자님 추천):
-
-
-
-<https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/>
+* 이직에 관하여(말하는 감자님 추천):[감자 바로가기](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
 
 
 
@@ -78,11 +74,11 @@ IT 기본 CS:
 * 통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정): <https://bobgo.kr>
 
 > 신입사원 면접을 위한 팁
->>신입 면접에선 가능성을 증명하라 :
->>> <https://blog.naver.com/sikimmm1/223315145747>
+>> 신입 면접에선 가능성을 증명하라 :
+<https://blog.naver.com/sikimmm1/223315145747>
 
-1. 클라우드 & 리눅스 & 쿠버네티스 & VMware
-Map The Cloud(AWS + Azure) :
+> 클라우드 & 리눅스 & 쿠버네티스 & VMware
+>> Map The Cloud(AWS + Azure) :
 https://cloud.syncrofusion.com/
 
 당신을 위한 리눅스 :
