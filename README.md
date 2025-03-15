@@ -212,10 +212,8 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
 ---------------------------------------
 ##### IT 자격증 공부방 공유 자료
-<br/>
 * 이로이카 님 공유 자료
 [AWS Cloud Practitioner Essentials](https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
-<br/>
 * siny 공유 자료
 [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법](https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4)
 ---------------------------------------
@@ -223,22 +221,16 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 * 개발자가 글을 잘 써야하는 이유
 * 테스트 케이스 작성 방법
 https://github.com/Arc-Jung
-
 * 경력을 설계하는 방법
 http://channy.creation.net/blog/1517
-
 * IT 엔지니어의 길
 https://brunch.co.kr/@linecard/66
-
 * 개발자를 위한 지침서
 https://github.com/pr0gr4m/Newbie-Guideline
-
 * 시스템(리눅스) 엔지니어 기술 면접 질문지
 https://github.com/pjhwa/linux-engineers/wiki
-
 * 일잘러의 'why' 사고
 https://brunch.co.kr/@kingkayg123/195
-
 * 연봉을 올리는 8가지 방법
 https://brunch.co.kr/@wisesaying/172
 -------------
