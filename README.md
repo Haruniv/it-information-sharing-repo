@@ -9,11 +9,10 @@ IT 유익한 정보 최신 업데이트!!
 UpTime: 2025.03.15
 
 IT 기술 노트
-IT 기본 CS:
-[https://wikidocs.net/63816]
-
-인디스워크 님 채용 소식
-[https://inthiswork.com/]
+</br>
+IT 기본 CS: [https://wikidocs.net/63816]
+</br>
+인디스워크 님 채용 소식:[https://inthiswork.com/]
 
 인디스워크 님 Youtube 채널 - 커리어 스토리
 [https://www.youtube.com/@inthiswork]
