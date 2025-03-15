@@ -24,7 +24,7 @@ IT 기본 CS:
 
 
 
-1. IT 사회 생활 가이드
+##### IT 사회 생활 가이드
 * 이직에 관하여(말하는 감자님 추천):
 <https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/>
 
@@ -66,16 +66,17 @@ IT 기본 CS:
 
 
 *추천 교육 사이트
-https://www.cccr-edu.or.kr/main/index.jsp (클라우드 관련 무료 교육 기관)
-https://estudy.kitri.re.kr/main.do(재직자 무료 교육기관)
-https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88 (상운 팀장님의 인프런 AWS 강의 링크)
 
-* 통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정)
-https://bobgo.kr
 
-0. 신입사원 면접을 위한 팁
-신입 면접에선 가능성을 증명하라 :
-https://blog.naver.com/sikimmm1/223315145747
+[클라우드 관련 무료 교육 기관](https://www.cccr-edu.or.kr/main/index.jsp)
+[재직자 무료 교육기관](https://estudy.kitri.re.kr/main.do)
+[상운 팀장님의 인프런 AWS 강의 링크](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88)
+
+* 통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정): <https://bobgo.kr>
+
+> 신입사원 면접을 위한 팁
+>>신입 면접에선 가능성을 증명하라 :
+>>> <https://blog.naver.com/sikimmm1/223315145747>
 
 1. 클라우드 & 리눅스 & 쿠버네티스 & VMware
 Map The Cloud(AWS + Azure) :
