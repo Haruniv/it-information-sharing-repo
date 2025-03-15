@@ -44,30 +44,18 @@ IT 기본 CS:
 
 
 
-* 개발자를 위한 인프라 기초 총정리:
-<https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/index.html>
-
-
-
-* IT 엔지니어의 길:
+개발자를 위한 인프라 기초 총정리: <https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/index.html>
+IT 엔지니어의 길: 
 <https://brunch.co.kr/@linecard/66>
-
-
-
-* 개발자를 위한 지침서:
+개발자를 위한 지침서: 
 <https://github.com/pr0gr4m/Newbie-Guideline>
-
-
-
-* 시스템(리눅스) 엔지니어 기술 면접 질문지
+시스템(리눅스) 엔지니어 기술 면접 질문지: 
 <https://github.com/pjhwa/linux-engineers/wiki>
 
 ### 추천 교육 사이트
 1. [클라우드 관련 무료 교육 기관](https://www.cccr-edu.or.kr/main/index.jsp)
 2. [재직자 무료 교육기관](https://estudy.kitri.re.kr/main.do)
 3. [상운 팀장님의 인프런 AWS 강의 링크](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88)
-
-* 통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정): <https://bobgo.kr>
 
 > 신입사원 면접을 위한 팁
 >> 신입 면접에선 가능성을 증명하라 :
@@ -76,6 +64,8 @@ IT 기본 CS:
 > 클라우드 & 리눅스 & 쿠버네티스 & VMware
 >> Map The Cloud(AWS + Azure) :
 <https://cloud.syncrofusion.com/>
+
+통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정): <https://bobgo.kr>
 
 당신을 위한 리눅스 :
 <https://linuxpia.tistory.com>
