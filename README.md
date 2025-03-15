@@ -33,9 +33,7 @@ IT 기본 CS:
 인디스워크 님 채용 소식:
 <https://inthiswork.com/>
 
-
-
-<img src="[https://www.flaticon.com/kr/free-icon/youtube_3938026?related_id=3938026](https://www.flaticon.com/kr/free-icon/youtube_3938026?related_id=3938026)" width="30" height="30"></img> 인디스워크 님 Youtube 채널 - 커리어 스토리:
+<img src="https://github.com/user-attachments/assets/c70585b0-098e-4afe-8fbd-b03ccc8cb1c6" width="30" height="30"></img> 인디스워크 님 Youtube 채널 - 커리어 스토리:
 <https://www.youtube.com/@inthiswork>
 
 #### IT 사회 생활 가이드
