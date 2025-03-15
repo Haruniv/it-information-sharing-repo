@@ -220,7 +220,7 @@ HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법](https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4)
 -------------
 #### 냥냥이들 정보 모음
-* 개발자가 글을 잘 써야하는 이유
+##### 개발자가 글을 잘 써야하는 이유
 * 테스트 케이스 작성 방법:
 https://github.com/Arc-Jung
 * 경력을 설계하는 방법:
