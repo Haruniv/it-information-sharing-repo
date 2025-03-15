@@ -26,7 +26,9 @@ IT 기본 CS:
 
 ### IT 사회 생활 가이드
 * 이직에 관하여(말하는 감자님 추천):
-<br/>
+
+
+
 <https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/>
 
 
