@@ -83,8 +83,7 @@ Map The Cloud(AWS + Azure) :
 AWS를 활용하는 개발자 :
 <https://blog.hoseung.me/>
 
-AWS 보안 전문 SA의 블로그 : 
-<https://cloudguardians.medium.com/route53-cnam-%EA%B3%BC-alias-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-c24e5e1802a9>
+AWS 보안 전문 SA의 블로그 : [AWS 보안 전문 SA 님 바로가기](https://cloudguardians.medium.com/route53-cnam-%EA%B3%BC-alias-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90-c24e5e1802a9)
 
 GS네오텍(클라우드):
 <https://wisen.co.kr/pages/blog/blog.html>
