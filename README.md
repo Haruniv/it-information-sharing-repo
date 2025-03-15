@@ -1,7 +1,17 @@
 # IT-information-sharing-repo
 
-### Hallo, 初めまして。
-### 有益な情報を共有する掲示板です。
+안녕하세요. Siny입니다.
+IT 종사자 모든 분들을 위해 여러 사람들이 도움을 주는 게시판입니다.
+유익한 정보를 공유하고자 하시는 분들은 언제든 환영합니다.
+
+Hallo, 初めまして。
+有益な情報を共有する掲示板です。
+
+"Learning is not attained by chance, it must be sought for with ardor and attended to with diligence."
+"배움은 우연히 얻어지는 것이 아니라 열성을 다해 갈구하고 부지런히 집중해야 얻을 수 있는 것이다."
+
+애비게일 애덤스.
+
 -------------
 Haru, IT-Information-sharing-repo.
 -------------
@@ -171,7 +181,7 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 - Crocus(개발과 디자인 패턴, 알고리즘) :<https://www.crocus.co.kr/341>
 - 그림 그리는 개발자 블로그(방 내 루루개발자님 소유) :<https://funveloper.tistory.com/>
 - 아웃사이더의 개발 블로그 :<https://blog.outsider.ne.kr/1292>
-- [개발자에게 필요한 개발 지식](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+- 개발자에게 필요한 개발 지식 : (https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - YuniCro 개발 유튜브(방 내 "서버개발자"님 소유)  : <https://youtube.com/@yunicro>
 - CodeCellar 블로그(방 내 "이로이카"님 소유) : <https://codecellar.tistory.com/>
 ### 백아쟈씨님의 Ansible을 이용한 네트워크 장비 자동화
