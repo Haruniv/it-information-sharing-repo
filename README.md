@@ -22,27 +22,17 @@ IT 기본 CS:
 인디스워크 님 Youtube 채널 - 커리어 스토리:
 <https://www.youtube.com/@inthiswork>
 
-
-
 ### IT 사회 생활 가이드
-* 이직에 관하여(말하는 감자님 추천): [감자 Link 바로가기](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
+이직에 관하여(말하는 감자님 추천): [감자 Link 바로가기](https://goodgid.github.io/About-job-change-For-those-who-want-to-move-to-a-IT-company/)
 
-
-
-* AI Tech Interview(면접 대비 지식 습득):
+AI Tech Interview(면접 대비 지식 습득):
 <https://boostdevs.gitbook.io/ai-tech-interview/>
 
-
-
-* 기업 복지 정보 모음:
+기업 복지 정보 모음:
 <https://bokziri.notion.site/bokziri/Bokziri-com-3e16ab5efbba47ad95d923c2de142255>
 
-
-
-* 유익한 블로그(IT)의 글을 모아 올려주는 블로그:
+유익한 블로그(IT)의 글을 모아 올려주는 블로그:
 <https://awesome-devblog.netlify.app/>
-
-
 
 개발자를 위한 인프라 기초 총정리: 
 <https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/index.html>
