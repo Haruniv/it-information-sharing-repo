@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/807c5dcd-11e4-40c0-a524-07b9206e4615)# IT-information-sharing-repo
+# IT-information-sharing-repo
 
 안녕하세요. Siny입니다.<br>
 IT 관련 직장인, 대학생, 신입생, 취준생을 위해 모든 분들이 제공해주시는 지식 정보 게시판입니다.<br>
