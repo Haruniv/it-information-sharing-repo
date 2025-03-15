@@ -35,7 +35,7 @@ IT 기본 CS:
 
 
 
-<img src="https://www.flaticon.com/kr/free-icon/youtube_3938026?related_id=3938026" width="30" height="30"></img> 인디스워크 님 Youtube 채널 - 커리어 스토리:
+<img src="[https://www.flaticon.com/kr/free-icon/youtube_3938026?related_id=3938026](https://www.flaticon.com/kr/free-icon/youtube_3938026?related_id=3938026)" width="30" height="30"></img> 인디스워크 님 Youtube 채널 - 커리어 스토리:
 <https://www.youtube.com/@inthiswork>
 
 #### IT 사회 생활 가이드
