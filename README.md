@@ -1,18 +1,18 @@
 # IT-information-sharing-repo
 
-안녕하세요. Siny입니다.
-IT 종사자 모든 분들을 위해 여러 사람들이 도움을 주는 게시판입니다.
-유익한 정보를 공유하고자 하시는 분들은 언제든 환영합니다.
-
+안녕하세요. Siny입니다.<br>
+IT 종사자 모든 분들을 위해 여러 사람들이 도움을 주는 게시판입니다.<br>
+유익한 정보를 공유하고자 하시는 분들은 언제든 환영합니다.<br>
+<br>
+<br>
 Hallo, 初めまして。
 有益な情報を共有する掲示板です。
-
+<br>
 "Learning is not attained by chance, it must be sought for with ardor and attended to with diligence."
-
+<br>
 "배움은 우연히 얻어지는 것이 아니라 열성을 다해 갈구하고 부지런히 집중해야 얻을 수 있는 것이다."
-
-
-
+<br>
+<br>
 애비게일 애덤스.
 
 -------------
