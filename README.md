@@ -215,9 +215,9 @@ HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
 
 #### IT 자격증 공부방 공유 자료
-* 이로이카 님 공유 자료
+* 이로이카 님 공유 자료: 
 [AWS Cloud Practitioner Essentials](https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
-* siny 공유 자료
+* siny 공유 자료: 
 [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법](https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4)
 -------------
 #### 냥냥이들 정보 모음
@@ -239,6 +239,6 @@ https://brunch.co.kr/@wisesaying/172
 -------------
 #### 취준생 면접용 커피 후원
 #### (후원인 : AWS의 모든 것 커뮤니티 & 전산직)
-1. [AWS의 모든 것 커뮤니티] : <https://open.kakao.com/o/gNSUnzob>
-2. [IT 네트워크 커뮤니티] : <https://open.kakao.com/o/gzCP6fy>
+1. AWS의 모든 것 커뮤니티 : <https://open.kakao.com/o/gNSUnzob>
+2. IT 네트워크 커뮤니티 : <https://open.kakao.com/o/gzCP6fy>
 
