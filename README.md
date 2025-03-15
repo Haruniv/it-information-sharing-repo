@@ -65,12 +65,12 @@ IT 엔지니어의 길:
 2. [재직자 무료 교육기관](https://estudy.kitri.re.kr/main.do)
 3. [상운 팀장님의 인프런 AWS 강의 링크](https://www.inflearn.com/course/%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%98%EB%8A%94-aws-%EA%B8%B0%EC%B4%88)
 
-> 신입사원 면접을 위한 팁
->> 신입 면접에선 가능성을 증명하라 :
+### 신입사원 면접을 위한 팁
+신입 면접에선 가능성을 증명하라 :
 <https://blog.naver.com/sikimmm1/223315145747>
 
-> 클라우드 & 리눅스 & 쿠버네티스 & VMware
->> Map The Cloud(AWS + Azure) :
+## 클라우드 & 리눅스 & 쿠버네티스 & VMware
+Map The Cloud(AWS + Azure) :
 <https://cloud.syncrofusion.com/>
 
 통닭님이 만든 과천 구내식당 정보 공유(전국 확대 예정): <https://bobgo.kr>
