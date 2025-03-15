@@ -124,7 +124,7 @@ Somaz의 공부일지 블로그(방 내 Somaz님 소유) :
 클래스메소드(기업체)의 AWS 블로그 : 
 <https://m.blog.naver.com/PostList.naver?blogId=classmethodkr>
 
-이 방에 계신 Henrry님 깃허브 : <https://leehosu.github.io/>
+Henrry님 깃허브 : <https://leehosu.github.io/>
 
 > 쿠버네티스란 무엇인가?
 >> 1. <https://kubernetes.io/ko/docs/concepts/overview/>
