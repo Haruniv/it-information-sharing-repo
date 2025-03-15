@@ -211,7 +211,7 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 [개인정보보호위한 AWS 서비스 보안 가이드(1)](http://www.datanet.co.kr/news/articleView.html?idxno=178039)
 [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
 ---------------------------------------
-8. IT 자격증 공부방 공유 자료
+##### IT 자격증 공부방 공유 자료
 <br/>
 * 이로이카 님 공유 자료
 [AWS Cloud Practitioner Essentials](https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
@@ -219,7 +219,7 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 * siny 공유 자료
 [AWS SAA-C03 시험 가이드 & 학습자료 & 공부법](https://data-architect.notion.site/Quick-Guide-AWS-SAA-C03-siny-AWS-Solutions-Architects-7c6839ff851347c1a58e861dce85d76f?pvs=4)
 ---------------------------------------
-10. 냥냥이들 정보 모음
+##### 냥냥이들 정보 모음
 * 개발자가 글을 잘 써야하는 이유
 * 테스트 케이스 작성 방법
 https://github.com/Arc-Jung
@@ -242,10 +242,14 @@ https://brunch.co.kr/@kingkayg123/195
 * 연봉을 올리는 8가지 방법
 https://brunch.co.kr/@wisesaying/172
 
-12. 취준생 면접용 커피 후원
+##### 취준생 면접용 커피 후원
+<br/>
 (후원인 : AWS의 모든 것 커뮤니티 & 전산직)
-- AWS의 모든 것 커뮤니티
-https://open.kakao.com/o/gNSUnzob
+<br/>
+[AWS의 모든 것 커뮤니티](https://open.kakao.com/o/gNSUnzob)
+<br/>
+[IT 네트워크 커뮤니티](https://open.kakao.com/o/gzCP6fy)
 
--  IT 네트워크 커뮤니티
-https://open.kakao.com/o/gzCP6fy
+<br/>
+<br/>
+
