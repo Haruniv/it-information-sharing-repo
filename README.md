@@ -22,8 +22,8 @@ Hallo, 初めまして。
 -------------
 Haru, IT-Information-sharing-repo.
 -------------
-IT 유익한 정보 최신 업데이트!!
-UpTime: 2025.03.15
+IT 유익한 정보 최신 업데이트!!<br>
+`UpTime: 2025.03.15`
 
 IT 기술 노트
 IT 기본 CS: 
