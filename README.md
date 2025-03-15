@@ -158,32 +158,23 @@ AWS 강의실(방 내 상운팀장님 소유 유튜브) :
 
 HTTP의 역사 : <https://velog.io/@seeker1207/HTTP-0.9%EC%97%90%EC%84%9C-HTTP-3.0%EA%B9%8C%EC%A7%80>
 
--------------
-
 TCP 자세한 분석 글: <https://meetup.nhncloud.com/posts/53>
-
--------------
 
 클라우드 엔지니어 면접을 위한 네트워크 :<https://www.joinc.co.kr/w/cloud_architect_study_network>
 
--------------
-
 HTTPS 원리 이해 : <https://brunch.co.kr/@growthminder/79>
 
--------------
-4. DNS
+### DNS
 Powered By DNS(DNS 운용) : <http://doc.kldp.org/KoreanDoc/html/PoweredByDNS-KLDP/>
 KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6%C5%B7#s-6.2>
--------------
-5. 개발과 알고리즘
+###  개발과 알고리즘
 - Crocus(개발과 디자인 패턴, 알고리즘) :<https://www.crocus.co.kr/341>
 - 그림 그리는 개발자 블로그(방 내 루루개발자님 소유) :<https://funveloper.tistory.com/>
 - 아웃사이더의 개발 블로그 :<https://blog.outsider.ne.kr/1292>
 - [개발자에게 필요한 개발 지식](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 - YuniCro 개발 유튜브(방 내 "서버개발자"님 소유)  : <https://youtube.com/@yunicro>
 - CodeCellar 블로그(방 내 "이로이카"님 소유) : <https://codecellar.tistory.com/>
--------------
-6. 백아쟈씨님의 Ansible을 이용한 네트워크 장비 자동화
+### 백아쟈씨님의 Ansible을 이용한 네트워크 장비 자동화
 - https://cafe.naver.com/neteg/233398
 - https://cafe.naver.com/neteg/235726
 - https://cafe.naver.com/neteg/236006
@@ -195,8 +186,7 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 - https://cafe.naver.com/neteg/237537
 - https://cafe.naver.com/neteg/237690
 - https://cafe.naver.com/neteg/237948
--------------
-7. Won님의 AWS/리눅스/쿠버네티스/도커/Go언어 추천 글 모음
+### Won님의 AWS/리눅스/쿠버네티스/도커/Go언어 추천 글 모음
 * https://captcha.tistory.com/ (Won님의 기술 블로그)
 * https://www.youtube.com/channel/UC_VOQjI7mtQTEaTXXQIzLtQ/playlists (리눅스, 쿠버네티스 유튜브 강좌)
 * https://blog.hyojun.me/8 (쿠버네티스 강좌)
@@ -205,7 +195,6 @@ KLDP-WiKi(모든 인프라) : <https://wiki.kldp.org/wiki.php/%B3%D7%C6%AE%BF%F6
 * http://jidum.com/jidums/view.do?jidumId=589 (지식덤프)
 [개인정보보호위한 AWS 서비스 보안 가이드(1)](http://www.datanet.co.kr/news/articleView.html?idxno=178039)
 [개인정보보호위한 AWS 서비스 보안 가이드(2)](http://www.datanet.co.kr/news/articleView.html?idxno=178057)
--------------
 ##### IT 자격증 공부방 공유 자료
 * 이로이카 님 공유 자료
 [AWS Cloud Practitioner Essentials](https://codecellar.tistory.com/entry/AWS-CCP-AWS-Cloud-Practitioner-Essentials-%EC%9A%94%EC%95%BD?category=1098237)
