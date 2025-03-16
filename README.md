@@ -1,4 +1,4 @@
-# IT 클라우드 자격증 공부방 공지 <img src="https://github.com/user-attachments/assets/167c9523-b4ce-4684-9e91-c84731b76f69" width="50" height="50"></img>
+# IT 클라우드 자격증 공부방 공지 <img src="https://github.com/user-attachments/assets/167c9523-b4ce-4684-9e91-c84731b76f69" width="65" height="65"></img>
 `본 홈페이지에서 제공하는 모든 자료는 저작권법에 의하여 보호받는 저작물로서 이에 대한 무단 복제 및 배포를 원칙적으로 금합니다.`
 `이를 무단 복제 · 배포하는 경우 저작권법 제136조, 137조, 138조에 의한 권리의 침해죄, 부정발행 등의 죄, 출처명시위반의 죄 등에 해당될 수 있습니다.`
 
